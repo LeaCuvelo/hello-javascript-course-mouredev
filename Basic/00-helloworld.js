@@ -1,9 +1,34 @@
-console.log("Hello, JavaScript")
+/*
+Clase 1 en vídeo | 10/07/2024
+Introducción, instalación, hola mundo y variables
+https://www.twitch.tv/videos/2194200202?t=00h14m43s
+*/
 
-let test = "test1"
+// Esto es un comentario simple
 
-console.log(test)
+/*
+Esto es
+un comentario
+en varias líneas
+*/
 
-test = "asas"
+console.log("¡Hola, JavaScript!")
+console.log('¡Hola, JavaScript!')
+console.log(`¡Hola, JavaScript!`)
 
-console.log(test)
+// console.log("¡Hola, JavaScript!")
+
+/*
+console.log("¡Hola, JavaScript!")
+console.log('¡Hola, JavaScript!')
+console.log(`¡Hola, JavaScript!`)
+*/
+
+console.log("5")
+console.log(5)
+console.log(5 + 2)
+console.log(5 - 2)
+console.log(5 * 2)
+console.log(5 / 2)
+console.log(5 % 2)
+console.log(5 ** 2)
